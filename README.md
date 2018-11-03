@@ -6,3 +6,7 @@ I'm just reproducing things I get taught on Coursera
 
 ### Minor Heading
 Still doing Coursera stuff...
+
+* first item in list
+* second item in list
+* third item in list
